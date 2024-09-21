@@ -1,1 +1,2 @@
 # the-complete-js-course-1-project
+This project is a simple number guessing game where the player tries to guess a randomly generated number between 1 and 20. The player has a limited number of attempts (starting with 20) to guess the correct number. The game provides feedback whether the guess is too high, too low, or correct. The player's score decreases with each incorrect guess, and the game keeps track of the highest score
